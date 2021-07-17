@@ -2,3 +2,4 @@
 //Test this
 var thisTest = "Hello";
 var secondVar = "world";
+alert(thisTest + secondVar);
